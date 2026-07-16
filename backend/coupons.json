@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "1001",
+    "coupon": "SAVE20",
+    "discount": "20%",
+    "animation": "spin3",
+    "claimed": false
+  },
+  {
+    "userId": "1002",
+    "coupon": "MEGA50",
+    "discount": "50%",
+    "animation": "spin1",
+    "claimed": false
+  },
+  {
+    "userId": "1003",
+    "coupon": "FREE10",
+    "discount": "10%",
+    "animation": "spin4",
+    "claimed": true
+  }
+]
